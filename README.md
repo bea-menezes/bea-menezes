@@ -6,6 +6,7 @@
 
 - Finalista do curso de Sistemas de Informação 🎓
 - Atualmente estou estudando Javascript 📚
+- Entre em contato comigo pelo email: beatrizprs.menezes@gmail.com
 
 <div >
     <img src="https://github-readme-stats.vercel.app/api?username=bea-menezes&show_icons=true&theme=dracula"> <br>
