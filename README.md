@@ -10,11 +10,6 @@
 - Acesse meu LinkedIn: https://www.linkedin.com/in/beatriz-menezes-pires/
 
 <br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bea-menezes&show_icons=true&locale=pt-br&count_private=true&theme=dracula" alt="bea-menezes" /></p>
-    
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bea-menezes&show_icons=true&locale=pt-br&count_private=true&theme=dracula" alt="bea-menezes" /></p>
-
   
 <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/768596723920404490/1075830658393440397/download20230204131608.png">
 
