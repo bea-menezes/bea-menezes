@@ -4,6 +4,10 @@
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beatrizprs.menezes@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-menezes-2ab31a187/)
 
+<p>
+  Sou analista de sistemas com experiência em desenvolvimento web frontend e suporte ao usuário. Ao decorrer da minha jornada participei do desenvolvimento de sistemas e criação de design para a Secretaria de Segurança Pública do Amazonas.
+</p>
+
 - Finalista do curso de Sistemas de Informação 🎓
 - Atualmente estou estudando React js 📚
 - Entre em contato comigo pelo email: beatrizprs.menezes@gmail.com
