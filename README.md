@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-menezes-2ab31a187/)
 
 - Finalista do curso de Sistemas de Informação 🎓
-- Atualmente estou estudando javascript 📚
+- Atualmente estou estudando React js 📚
 - Entre em contato comigo pelo email: beatrizprs.menezes@gmail.com
 - Acesse meu LinkedIn: https://www.linkedin.com/in/beatriz-menezes-pires/
 
